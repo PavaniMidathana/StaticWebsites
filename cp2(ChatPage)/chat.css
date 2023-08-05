@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.wcard {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    background-size: cover;
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.hr {
+    text-align: center;
+    background-color: #323f4b;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.para1 {
+    background-color: #47a3f3;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-bottom-right-radius: 0px;
+}
+
+.para2 {
+    background-color: #52606d;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-bottom-left-radius: 0px;
+}
