@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-page-bg {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Bree Serif";
+}
+
+.home-page-image {
+    height: 180px;
+    width: 250px;
+}
+
+.home-page-h1 {
+    color: #183b56;
+    font-size: 25px;
+}
+
+.home-page-p {
+    color: #616e7c;
+    font-size: 12px;
+}
+
+.home-page-image1 {
+    height: 100px;
+    width: 150px;
+    margin-top: 15px;
+}
+
+
+.top-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.top-h {
+    font-family: caveat;
+    color: white;
+    width: 200px;
+    font-size: 30px;
+    padding: 35px;
+
+}
+
+.bottom-bg {
+    background-color: #e6f6ff;
+    text-align: center;
+    padding: 35px;
+}
+
+.bottom-card {
+    background-color: white;
+    width: 150px;
+    padding: 15px;
+    border-radius: 2vh;
+    margin: 20px;
+}
+
+.bottom-card-image {
+    height: 90px;
+    width: 80px;
+
+}
+
+.bottom-card-h {
+    font-family: "Roboto";
+    font-size: 12px;
+    margin: 5px;
+    color: #616e7c;
+    font-weight: normal;
+}
+
+.bottom-card-p {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.happyfood-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.happyfood-card {
+    background-color: #f6c56e;
+    color: #323f4b;
+    font-family: "Roboto";
+    border-top-right-radius: 4vh;
+    border-top-left-radius: 4vh;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.h {
+    font-family: "Bree serif";
+    font-size: 25px;
+
+}
+
+.button {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 35px;
+    width: 120px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.at-background {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.at-card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.at-card-h {
+    color: #5752ab;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: "Bree Serif";
+}
+
+.at-card-p {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 14px;
+    font-weight: 500px;
+}
+
+.at-card-button1 {
+    background-color: #ffffff;
+    color: #171f46;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    height: 35px;
+    width: 120px;
+    border-style: solid;
+    border-color: #d7dfe9;
+    margin-right: 10px;
+}
+
+.at-card-button2 {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    height: 35px;
+    width: 120px;
+    border-style: solid;
+    border-color: #d7dfe9;
+    margin-left: 10px;
+}
+
+.e-paper-bg {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+.e-paper-card {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 12px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.e-paper-card-h {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.e-paper-card-button {
+    background-color: #323f4b;
+    color: white;
+    border-style: solid;
+    border-width: 0px;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    font-size: 11px;
+}

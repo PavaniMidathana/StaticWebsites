@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-page-bg {
+    background-color: #03174c;
+    background-size: cover;
+    height: 110vh;
+}
+
+.home-page-top-section {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    background-size: cover;
+    height: 40vh;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px
+}
+
+.home-page-top-section-h {
+    font-size: 24px;
+}
+
+.home-page-top-section-p {
+    font-size: 14px;
+}
+
+.home-page-bottom-section {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    text-align: center;
+    padding: 20px;
+    padding-top: 30px;
+}
+
+.home-page-bottom-section-h {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    height: 150px;
+    width: 310px;
+    text-align: center;
+    color: #ffe7bf;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.home-page-bottom-section-p {
+    font-size: 14px;
+}
+
+.home-page-bottom-section-button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-width: 0px;
+    border-radius: 15px;
+    height: 30px;
+    width: 100px;
+    font-size: 14px;
+}
+
+.details-page-bg {
+    background-color: #03174c;
+    background-size: cover;
+    height: 110vh;
+
+}
+
+.details-page-image {
+    width: 100vw;
+    height: 40vh;
+}
+
+.details-page-text {
+    font-family: "Bree Serif";
+    padding: 20px;
+}
+
+.details-page-text-h1 {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.details-page-text-p {
+    color: #98a1bd;
+    font-size: 13px;
+}
+
+.details-page-text-h3 {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.details-page-text-card {
+    margin-right: 10px;
+}
+
+.details-page-text-card-image {
+    height: 100px;
+}

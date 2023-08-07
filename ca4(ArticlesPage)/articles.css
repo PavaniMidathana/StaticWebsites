@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.articles-page-bg {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    color: #ffffff;
+    padding: 25px;
+    padding-top: 40px;
+    font-family: "Roboto";
+}
+
+.articles-page-h {
+    font-size: 34px;
+}
+
+.articles-page-card {
+    background-color: #ffffff;
+    border-radius: 7px;
+    height: 90px;
+    width: 130px;
+    text-align: center;
+    padding: 10px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.articles-page-card-image {
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+}
+
+.articles-page-card-h {
+    color: #1f2933;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.lot-page-bg {
+    background-color: #225db0;
+    background-size: cover;
+    height: 110vh;
+    color: #ffffff;
+    padding: 20px;
+    font-family: "Roboto";
+}
+
+.lot-page-h {
+    font-size: 28px;
+    font-weight: normal;
+    margin-top: 20px;
+}
+
+.lot-page-li {
+    margin-top: 15px;
+}
+
+.button {
+    color: white;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.lot-page-button {
+    text-align: center;
+}

@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-bg {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.home-page-card {
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: "Bree Serif";
+    padding-top: 40px;
+}
+
+.home-page-card-h {
+    color: #f19116;
+    font-size: 25px;
+}
+
+.home-page-card-p {
+    color: #7b8794;
+    font-size: 18px;
+}
+
+.home-page-card-button {
+    background-color: #f19116;
+    color: white;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 35px;
+    width: 100px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.flatlist-page-bg {
+    background-color: #222222;
+    background-size: cover;
+    height: 110vh;
+    font-family: "Bree Serif";
+    padding-top: 40px;
+    padding: 10px;
+
+}
+
+.flatlist-page-h {
+    color: #f19116;
+    font-size: 30px;
+}
+
+.flatlist-page-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.flatlist-page-card-image {
+    height: 150px;
+    width: 80px;
+    margin-right: 15px;
+}
+
+.flatlist-page-card-h {
+    font-size: 26px;
+    font-weight: bold;
+    color: #0f0e46;
+    margin-top: 5px;
+}
+
+.flatlist-page-card-p {
+    color: #6c6b70;
+    font-size: 12px;
+}
+
+.flatdetails-page-bg {
+    background-color: #222222;
+    background-size: cover;
+    height: 110vh;
+    font-family: "Bree Serif";
+
+
+
+}
+
+.flatdetails-page-image {
+    width: 100vw;
+}
+
+.flatdetails-page-card {
+    padding: 20px;
+}
+
+.flatdetails-page-card-h {
+    color: #f19116;
+    font-size: 25px;
+}
+
+.flatdetails-page-card-logo {
+    height: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.flatdetails-page-card-p {
+    color: #ffffff;
+    margin-top: 18px;
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+
+.flatdetails-page-card-line {
+    background-color: white;
+    height: 1px;
+
+}
